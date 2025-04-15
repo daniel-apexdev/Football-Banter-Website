@@ -121,6 +121,23 @@ section {
     }
 }
 
+/* ================= ABOUT SECTION ==================== */
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.about h2{
+    text-align: center;
+    margin-bottom: 3%;
+    font-size: 45px;
+    text-transform: capitalize;
+    color: #000;
+}
+
 /* ================= FOOTER SECTION ==================== */
 footer{
     color: #fff;
