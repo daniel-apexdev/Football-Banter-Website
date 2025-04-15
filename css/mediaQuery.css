@@ -121,6 +121,9 @@
         background: #f1f1f8;
         box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
     }
+    .row h6 a{
+        bottom: 105px;
+    }
 }
 
 @media (max-width: 617px) {
@@ -183,6 +186,9 @@
         justify-content: right;
         margin-right: -110px;
     }
+    .row h6 a{
+        bottom: 105px;
+    }
 }
 
 @media (max-width: 450px) {
@@ -229,7 +235,7 @@
     }
 
     .row h6 a{
-        bottom: 130px;
+        bottom: 132px;
     }
 
     .footer-text p {
